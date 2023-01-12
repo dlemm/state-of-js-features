@@ -1,4 +1,4 @@
-# state-of-js-features
+# WIP state-of-js-features
 This is a repo for the mentioned features from the [State of JS](https://2022.stateofjs.com/). It's a link collection for more detail information for these features. If you're like me and you have not yet heard of some of them or even all. I have you (and me) covered. 
 
 ### Table of content
