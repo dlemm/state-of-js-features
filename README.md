@@ -36,3 +36,7 @@ Source: [developer.mozilla.org][2]
 
 ## String.prototype.replaceAll()
 
+
+
+[1]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Nullish_coalescing 
+[2]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/await
