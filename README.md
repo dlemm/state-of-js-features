@@ -40,6 +40,10 @@ The method `replaceAll()` returns a new string where all matched patterns are re
 
 🧐: The original string is left unchanged.
 
+```js
+replaceAll(pattern, replacement)
+```
+
 
 [1]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Nullish_coalescing 
 [2]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/await
