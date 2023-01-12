@@ -36,6 +36,9 @@ Source: [developer.mozilla.org][2]
 
 ## String.prototype.replaceAll()
 
+The method `replaceAll()` returns a new string where all matched patterns are replaced by the replacement. The pattern that should be replaced can be a string or a RegExp. The replacement itself can be a string or a function to be called for each match. 
+
+🧐: The original string is left unchanged.
 
 
 [1]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Nullish_coalescing 
