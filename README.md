@@ -4,6 +4,7 @@ This is a repo for the mentioned features from the [State of JS](https://2022.st
 ### Table of content
 1. [Nullish Coalescing](#nullish-coalescing)
 2. [Top level await()](#top-level-await)
+3. [String.prototype.replaceAll()](#stringprototypereplaceall)
 
 ## Nullish-Coalescing
 
@@ -44,6 +45,8 @@ The method `replaceAll()` returns a new string where all matched patterns are re
 replaceAll(pattern, replacement)
 ```
 
+Source: [developer.mozilla.org][3]
 
 [1]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Nullish_coalescing 
 [2]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/await
+[3]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/replaceAll
