@@ -43,6 +43,18 @@ The method `replaceAll()` returns a new string where all matched patterns are re
 
 ```js
 replaceAll(pattern, replacement)
+
+const p = 'The quick brown fox jumps over the lazy dog. If the dog reacted, was it really lazy?';
+
+console.log(p.replaceAll('dog', 'monkey'));
+// Expected output: "The quick brown fox jumps over the lazy monkey. If the monkey reacted, was it really lazy?"
+
+
+// Global flag required when calling replaceAll with regex
+const regex = /Dog/ig;
+console.log(p.replaceAll(regex, 'cat'));
+// Expected output: "The quick brown fox jumps over the lazy cat. If the cat reacted, was it really lazy?"
+
 ```
 
 Source: [developer.mozilla.org][3]
